@@ -1,16 +1,40 @@
 body {
   margin: 1%;
   text-align: center;
-  font-family: "Anton", sans-serif;
+  font-family:fantasy;
   height: 90vh;
+  background-image: url(https://m.media-amazon.com/images/I/71FfSFVzXJL._AC_SL1500_.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1 {
   text-decoration: underline;
   font-size: 40px;
+  color:purple;
 }
 
 .inputBox {
   padding: 5px;
-  margin: 10px;
+  margin: 30px;
+  border-radius: 25px;
+  color:hotpink;
+}
+
+#button{
+  color:blue;
+  background-color: ghostwhite;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 4px dashed purple;
+  font-family: fantasy;
+}
+
+#button:hover{
+  color:hotpink;
+}
+
+#response{
+  color:red;
 }
