@@ -2,6 +2,11 @@
 
 Ask the magic 8 ball a question and receive your answer!
 
+### General Info
+This app was created in React
+
+
+
 ### Running the app on your local machine
 
 
